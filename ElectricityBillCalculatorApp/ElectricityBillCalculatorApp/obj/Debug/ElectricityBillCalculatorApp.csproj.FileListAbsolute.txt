@@ -1,0 +1,9 @@
+E:\C# Practice\ElectricityBillCalculatorApp\ElectricityBillCalculatorApp\bin\Debug\ElectricityBillCalculatorApp.exe.config
+E:\C# Practice\ElectricityBillCalculatorApp\ElectricityBillCalculatorApp\bin\Debug\ElectricityBillCalculatorApp.exe
+E:\C# Practice\ElectricityBillCalculatorApp\ElectricityBillCalculatorApp\bin\Debug\ElectricityBillCalculatorApp.pdb
+E:\C# Practice\ElectricityBillCalculatorApp\ElectricityBillCalculatorApp\obj\Debug\ElectricityBillCalculatorApp.ElectricityUI.resources
+E:\C# Practice\ElectricityBillCalculatorApp\ElectricityBillCalculatorApp\obj\Debug\ElectricityBillCalculatorApp.Properties.Resources.resources
+E:\C# Practice\ElectricityBillCalculatorApp\ElectricityBillCalculatorApp\obj\Debug\ElectricityBillCalculatorApp.csproj.GenerateResource.Cache
+E:\C# Practice\ElectricityBillCalculatorApp\ElectricityBillCalculatorApp\obj\Debug\ElectricityBillCalculatorApp.exe
+E:\C# Practice\ElectricityBillCalculatorApp\ElectricityBillCalculatorApp\obj\Debug\ElectricityBillCalculatorApp.pdb
+E:\C# Practice\ElectricityBillCalculatorApp\ElectricityBillCalculatorApp\obj\Debug\ElectricityBillCalculatorApp.csprojResolveAssemblyReference.cache

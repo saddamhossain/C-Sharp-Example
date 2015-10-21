@@ -1,0 +1,8 @@
+E:\C# Practice\ElecCalculator\ElecCalculator\bin\Debug\ElecCalculator.exe.config
+E:\C# Practice\ElecCalculator\ElecCalculator\bin\Debug\ElecCalculator.exe
+E:\C# Practice\ElecCalculator\ElecCalculator\bin\Debug\ElecCalculator.pdb
+E:\C# Practice\ElecCalculator\ElecCalculator\obj\Debug\ElecCalculator.SaddamUI.resources
+E:\C# Practice\ElecCalculator\ElecCalculator\obj\Debug\ElecCalculator.Properties.Resources.resources
+E:\C# Practice\ElecCalculator\ElecCalculator\obj\Debug\ElecCalculator.csproj.GenerateResource.Cache
+E:\C# Practice\ElecCalculator\ElecCalculator\obj\Debug\ElecCalculator.exe
+E:\C# Practice\ElecCalculator\ElecCalculator\obj\Debug\ElecCalculator.pdb

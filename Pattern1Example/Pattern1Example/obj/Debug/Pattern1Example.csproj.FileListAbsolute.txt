@@ -1,0 +1,5 @@
+E:\C# Practice\Pattern1Example\Pattern1Example\bin\Debug\Pattern1Example.exe.config
+E:\C# Practice\Pattern1Example\Pattern1Example\bin\Debug\Pattern1Example.exe
+E:\C# Practice\Pattern1Example\Pattern1Example\bin\Debug\Pattern1Example.pdb
+E:\C# Practice\Pattern1Example\Pattern1Example\obj\Debug\Pattern1Example.exe
+E:\C# Practice\Pattern1Example\Pattern1Example\obj\Debug\Pattern1Example.pdb

@@ -1,0 +1,8 @@
+E:\C# Practice\PlanetExample\PlanetExample\bin\Debug\PlanetExample.exe.config
+E:\C# Practice\PlanetExample\PlanetExample\bin\Debug\PlanetExample.exe
+E:\C# Practice\PlanetExample\PlanetExample\bin\Debug\PlanetExample.pdb
+E:\C# Practice\PlanetExample\PlanetExample\obj\Debug\PlanetExample.Form1.resources
+E:\C# Practice\PlanetExample\PlanetExample\obj\Debug\PlanetExample.Properties.Resources.resources
+E:\C# Practice\PlanetExample\PlanetExample\obj\Debug\PlanetExample.csproj.GenerateResource.Cache
+E:\C# Practice\PlanetExample\PlanetExample\obj\Debug\PlanetExample.exe
+E:\C# Practice\PlanetExample\PlanetExample\obj\Debug\PlanetExample.pdb

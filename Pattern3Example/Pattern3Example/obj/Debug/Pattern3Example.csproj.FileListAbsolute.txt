@@ -1,0 +1,6 @@
+E:\C# Practice\Pattern3Example\Pattern3Example\bin\Debug\Pattern3Example.exe.config
+E:\C# Practice\Pattern3Example\Pattern3Example\bin\Debug\Pattern3Example.exe
+E:\C# Practice\Pattern3Example\Pattern3Example\bin\Debug\Pattern3Example.pdb
+E:\C# Practice\Pattern3Example\Pattern3Example\obj\Debug\Pattern3Example.csprojResolveAssemblyReference.cache
+E:\C# Practice\Pattern3Example\Pattern3Example\obj\Debug\Pattern3Example.exe
+E:\C# Practice\Pattern3Example\Pattern3Example\obj\Debug\Pattern3Example.pdb

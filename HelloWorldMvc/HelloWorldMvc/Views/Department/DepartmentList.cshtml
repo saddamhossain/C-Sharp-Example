@@ -1,0 +1,15 @@
+﻿@using HelloWorldMvc.Models
+@model IEnumerable<HelloWorldMvc.Models.Department>
+
+<table border="1">
+    @{ 
+        foreach(Department departmernts in Model)
+            {
+
+                <tr>
+                    <td> @departmernts.Code </td>
+                    <td> @departmernts.Name </td>
+                </tr>
+            }
+    }
+</table>

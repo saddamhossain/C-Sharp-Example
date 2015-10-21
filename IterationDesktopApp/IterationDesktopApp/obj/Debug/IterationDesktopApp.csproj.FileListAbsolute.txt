@@ -1,0 +1,8 @@
+E:\C# Practice\IterationDesktopApp\IterationDesktopApp\bin\Debug\IterationDesktopApp.exe.config
+E:\C# Practice\IterationDesktopApp\IterationDesktopApp\bin\Debug\IterationDesktopApp.exe
+E:\C# Practice\IterationDesktopApp\IterationDesktopApp\bin\Debug\IterationDesktopApp.pdb
+E:\C# Practice\IterationDesktopApp\IterationDesktopApp\obj\Debug\IterationDesktopApp.Form1.resources
+E:\C# Practice\IterationDesktopApp\IterationDesktopApp\obj\Debug\IterationDesktopApp.Properties.Resources.resources
+E:\C# Practice\IterationDesktopApp\IterationDesktopApp\obj\Debug\IterationDesktopApp.csproj.GenerateResource.Cache
+E:\C# Practice\IterationDesktopApp\IterationDesktopApp\obj\Debug\IterationDesktopApp.exe
+E:\C# Practice\IterationDesktopApp\IterationDesktopApp\obj\Debug\IterationDesktopApp.pdb

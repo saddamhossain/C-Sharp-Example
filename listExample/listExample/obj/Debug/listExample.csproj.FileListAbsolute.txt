@@ -1,0 +1,6 @@
+E:\C# Practice\listExample\listExample\bin\Debug\listExample.exe.config
+E:\C# Practice\listExample\listExample\bin\Debug\listExample.exe
+E:\C# Practice\listExample\listExample\bin\Debug\listExample.pdb
+E:\C# Practice\listExample\listExample\obj\Debug\listExample.csprojResolveAssemblyReference.cache
+E:\C# Practice\listExample\listExample\obj\Debug\listExample.exe
+E:\C# Practice\listExample\listExample\obj\Debug\listExample.pdb

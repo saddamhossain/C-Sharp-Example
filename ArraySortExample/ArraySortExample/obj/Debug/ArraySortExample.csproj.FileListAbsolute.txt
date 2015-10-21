@@ -1,0 +1,6 @@
+E:\C# Practice\ArraySortExample\ArraySortExample\bin\Debug\ArraySortExample.exe.config
+E:\C# Practice\ArraySortExample\ArraySortExample\bin\Debug\ArraySortExample.exe
+E:\C# Practice\ArraySortExample\ArraySortExample\bin\Debug\ArraySortExample.pdb
+E:\C# Practice\ArraySortExample\ArraySortExample\obj\Debug\ArraySortExample.csprojResolveAssemblyReference.cache
+E:\C# Practice\ArraySortExample\ArraySortExample\obj\Debug\ArraySortExample.exe
+E:\C# Practice\ArraySortExample\ArraySortExample\obj\Debug\ArraySortExample.pdb
